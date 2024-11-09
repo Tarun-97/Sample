@@ -1,3 +1,3 @@
 # Sample
 Live Long<br>
-Great Days
+A Great Day
